@@ -1,0 +1,40 @@
+{
+    "name": "@remobile/react-native-cache-module",
+    "version": "1.0.0",
+    "description": "Cache dynamic loading third party react-native app/module for react-native",
+    "main": "index.js",
+    "author": {
+        "name": "YunJiang.Fang",
+        "email": "42550564@qq.com"
+    },
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "cache",
+        "module",
+        "thirdparty",
+        "independent",
+        "absolute",
+        "individual",
+        "remobile",
+        "mobile"
+    ],
+    "homepage": "https://github.com/remobile/react-native-cache-module",
+    "bugs": {
+        "url": "https://github.com/remobile/react-native-cache-module/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/remobile/react-native-cache-module.git"
+    },
+    "peerDependencies": {
+        "@remobile/react-native-module": "^1.0.0",
+        "@remobile/react-native-sqlite": "^1.0.2",
+        "@remobile/react-native-file-transfer": "^1.0.7",
+        "@remobile/react-native-zip": "^1.0.4",
+        "react-native-fs": "^2.0.1"
+    }
+}
